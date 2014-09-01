@@ -1,0 +1,19 @@
+{
+  "name": "rentdata",
+  "version": "0.0.1",
+  "description": "Rentdata",
+  "main": "index.js",
+  "dependencies": {
+    "LiveScript": "^1.2.0",
+    "async": "^0.9.0",
+    "cheerio": "^0.17.0",
+    "prelude-ls": "^1.1.1",
+    "request": "^2.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "YuanHsiang Cheng",
+  "license": "MIT"
+}
