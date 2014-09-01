@@ -33,8 +33,8 @@
 
 # Usage
 
-`$ npm i`
-`$ lsc`
+1. `$ npm i`
+2. `$ lsc`
 
 # License
 
